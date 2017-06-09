@@ -7,7 +7,7 @@ $ npm install nicht
 ```
 
 ## Usage
-```bash
+```javascript
 import nicht from 'nicht'
 
 nitch('Are you okay?')
