@@ -1,5 +1,6 @@
 {
   "name": "nicht",
+  "description": "Command line interface prompt bool values",
   "version": "0.0.0",
   "main": "index.js",
   "repository": "git@github.com:bukinoshita/nicht.git",
@@ -10,7 +11,8 @@
     "test": "xo --quiet"
   },
   "dependencies": {
-    "chalk": "^1.1.3"
+    "chalk": "^1.1.3",
+    "ora": "^1.2.0"
   },
   "devDependencies": {
     "eslint-config-prettier": "^2.1.1",
