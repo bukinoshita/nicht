@@ -1,4 +1,4 @@
-# nicht
+# nicht [![Build Status](https://travis-ci.org/bukinoshita/nicht.svg?branch=master)](https://travis-ci.org/bukinoshita/nicht)
 > Command line interface prompt bool values
 
 ## Install
