@@ -6,6 +6,7 @@
   "repository": "git@github.com:bukinoshita/nicht.git",
   "author": "Bu Kinoshita <bukinoshita@gmail.com>",
   "license": "MIT",
+  "keywords": ["prompt", "cli", "command-line", "bool", "boolean", "command"],
   "scripts": {
     "precommit": "lint-staged",
     "test": "xo --quiet"

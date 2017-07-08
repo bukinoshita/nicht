@@ -1,10 +1,12 @@
 # nicht [![Build Status](https://travis-ci.org/bukinoshita/nicht.svg?branch=master)](https://travis-ci.org/bukinoshita/nicht)
 > Command line interface prompt bool values
 
+
 ## Install
 ```bash
 $ npm install nicht
 ```
+
 
 ## Usage
 ```javascript
@@ -14,9 +16,11 @@ nitch('Are you okay?')
 // => Are you okay? [y|N]
 ```
 
+
 ## Demo
 
 <img src="https://cldup.com/h0RkelnjlQ.gif"/>
+
 
 ## API
 
@@ -44,6 +48,7 @@ default: `y`
 Type: `string`<br/>
 default: `n`
 
+
 ## License
 
-[MIT](https://raw.githubusercontent.com/bukinoshita/nicht/master/LICENSE) &copy; Bu Kinoshita
+MIT © [Bu Kinoshita](https://bukinoshita.io)
